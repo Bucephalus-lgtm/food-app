@@ -35,9 +35,3 @@ export const SearchResults = ({ meals }) => {
         </Fragment>
     )
 }
-
-
-// git fetch origin master:tmp
-// git rebase tmp
-// git push origin HEAD:master
-// git branch -D tmp
