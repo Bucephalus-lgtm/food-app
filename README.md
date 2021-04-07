@@ -1,9 +1,6 @@
-##### Food searching PWA
+# Food searching PWA
 
-#### Sample app can be found :
-
-[here](https://recipe-pwapp.netlify.app/)
-
+#### Sample app can be found :[here](https://recipe-pwapp.netlify.app/)
 
 #### Run locally
 
