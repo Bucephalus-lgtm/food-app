@@ -2,9 +2,10 @@ export const SearchPage = ({ handleChange, ingredient, search }) => {
     return (
         <div>
             <div className="meal-search">
-                <h2 className="title">Find Meals For Your Ingredients</h2>
-                <p>Real food doesn't have ingredients, real food is ingredients.<br />
-                    <cite>- Jamie Oliver</cite>
+                <h2 className="title">Seek for your meals from by your favorite ingredient...</h2>
+                <p>“If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.”
+<br />
+                    <cite>― J.R.R. Tolkien</cite>
                 </p>
 
                 <div className="meal-search-box">
@@ -21,7 +22,7 @@ export const SearchPage = ({ handleChange, ingredient, search }) => {
                         className="search-btn btn"
                         id="search-btn"
                         onClick={search}
-                        >
+                    >
                         <i className="fas fa-search"></i>
                     </button>
                 </div>
