@@ -2,7 +2,7 @@ export const SearchPage = ({ handleChange, ingredient, search }) => {
     return (
         <div>
             <div className="meal-search">
-                <h2 className="title">Seek for your meals from by your favorite ingredient...</h2>
+                <h2 className="title">Seek for your meals by your favorite ingredient...</h2>
                 <p>“If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.”
 <br />
                     <cite>― J.R.R. Tolkien</cite>
@@ -30,3 +30,5 @@ export const SearchPage = ({ handleChange, ingredient, search }) => {
         </div>
     )
 }
+
+// recipe-pwapp
